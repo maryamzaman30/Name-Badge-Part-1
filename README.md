@@ -59,7 +59,7 @@ Before diving in, ensure you have the following installed:
    - **Physical Device:**  
      Scan the QR code shown in the Expo developer tools as seen in the image below, using the **Expo Go** app. You can download it for [iOS](https://apps.apple.com/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent).
 
-     ![alt text](image.png)
+    ![fig](https://github.com/user-attachments/assets/c07fe067-602e-4493-8474-4099986fe7d3)
 
 4. Your app should now be running on your device or simulator!
 
