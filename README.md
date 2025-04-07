@@ -42,7 +42,7 @@ Before diving in, ensure you have the following installed:
 1. Navigate to your project directory:
 
    ```bash
-   cd projectName
+   cd Mobile-Development-University-of-London-Name-Badge-Part-1
    ```
 
 2. Start the Expo development server:
