@@ -6,9 +6,9 @@
 
 ## Introduction
 
-This React Native project is designed to help developers grasp the fundamentals of React Native by creating a landscape-oriented "Hello, my name is..." badge application. The project covers key concepts like custom text styling, responsive layout creation, and the use of components. Personalization options, such as adding names, pronouns, emojis, or translations, allow for creative expression while building an engaging app.
+Run Online on Expo Snack - https://snack.expo.dev/@maryam222/namebadge
 
-Run Online on Expo Snack https://snack.expo.dev/@maryam222/namebadge
+This React Native project is designed to help developers grasp the fundamentals of React Native by creating a landscape-oriented "Hello, my name is..." badge application. The project covers key concepts like custom text styling, responsive layout creation, and the use of components. Personalization options, such as adding names, pronouns, emojis, or translations, allow for creative expression while building an engaging app.
 
 ## Getting Started
 
